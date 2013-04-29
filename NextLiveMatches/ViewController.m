@@ -91,7 +91,7 @@
 
 -(void)didRotateFromInterfaceOrientation:(UIInterfaceOrientation)fromInterfaceOrientation{
 //    UITableView *table = self.view;
-    [(UITableView *)self.view reloadData];
+//    [(UITableView *)self.view reloadData];
 }
 
 #pragma mark Data
